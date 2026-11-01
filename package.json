@@ -1,0 +1,46 @@
+{
+  "name": "fauzey-peanut",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fauzey Peanut — a luxury Ghanaian peanut and peanut-butter house. Static Next.js storefront for GitHub Pages.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan:images": "node scripts/scan-images.mjs",
+    "predev": "npm run scan:images",
+    "dev": "next dev",
+    "prebuild": "npm run scan:images",
+    "build": "next build",
+    "preview": "node scripts/preview.mjs",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "images:report": "node scripts/image-move-report.mjs",
+    "images:variants": "node scripts/make-variants.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.2.0",
+    "@fontsource/cormorant-garamond": "^5.2.0",
+    "framer-motion": "^12.0.0",
+    "lucide-react": "^0.460.0",
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.5.0",
+    "postcss": "^8.4.49",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}

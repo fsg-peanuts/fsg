@@ -1,0 +1,593 @@
+{
+  "images": {
+    "CLPM_100g": {
+      "src": "chilli-lime-peanut-mix/CLPM_100g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_100g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_100g-960w.webp"
+      }
+    },
+    "CLPM_150g": {
+      "src": "chilli-lime-peanut-mix/CLPM_150g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_150g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_150g-960w.webp"
+      }
+    },
+    "CLPM_1kg": {
+      "src": "chilli-lime-peanut-mix/CLPM_1kg.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_1kg-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_1kg-960w.webp"
+      }
+    },
+    "CLPM_200g": {
+      "src": "chilli-lime-peanut-mix/CLPM_200g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_200g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_200g-960w.webp"
+      }
+    },
+    "CLPM_250g": {
+      "src": "chilli-lime-peanut-mix/CLPM_250g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_250g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_250g-960w.webp"
+      }
+    },
+    "CLPM_350g": {
+      "src": "chilli-lime-peanut-mix/CLPM_350g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_350g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_350g-960w.webp"
+      }
+    },
+    "CLPM_400g": {
+      "src": "chilli-lime-peanut-mix/CLPM_400g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_400g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_400g-960w.webp"
+      }
+    },
+    "CLPM_500g": {
+      "src": "chilli-lime-peanut-mix/CLPM_500g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_500g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_500g-960w.webp"
+      }
+    },
+    "CLPM_50g": {
+      "src": "chilli-lime-peanut-mix/CLPM_50g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_50g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_50g-960w.webp"
+      }
+    },
+    "CLPM_700g": {
+      "src": "chilli-lime-peanut-mix/CLPM_700g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_700g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_700g-960w.webp"
+      }
+    },
+    "CLPM_750g": {
+      "src": "chilli-lime-peanut-mix/CLPM_750g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_750g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_750g-960w.webp"
+      }
+    },
+    "CLPM_900g": {
+      "src": "chilli-lime-peanut-mix/CLPM_900g.jpg",
+      "variants": {
+        "480": "chilli-lime-peanut-mix/CLPM_900g-480w.webp",
+        "960": "chilli-lime-peanut-mix/CLPM_900g-960w.webp"
+      }
+    },
+    "CP_100g": {
+      "src": "crunchy-peanuts/CP_100g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_100g-480w.webp",
+        "960": "crunchy-peanuts/CP_100g-960w.webp"
+      }
+    },
+    "CP_150g": {
+      "src": "crunchy-peanuts/CP_150g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_150g-480w.webp",
+        "960": "crunchy-peanuts/CP_150g-960w.webp"
+      }
+    },
+    "CP_1kg": {
+      "src": "crunchy-peanuts/CP_1kg.jpg",
+      "variants": {
+        "480": "crunchy-peanuts/CP_1kg-480w.webp",
+        "960": "crunchy-peanuts/CP_1kg-960w.webp"
+      }
+    },
+    "CP_200g": {
+      "src": "crunchy-peanuts/CP_200g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_200g-480w.webp",
+        "960": "crunchy-peanuts/CP_200g-960w.webp"
+      }
+    },
+    "CP_250g": {
+      "src": "crunchy-peanuts/CP_250g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_250g-480w.webp",
+        "960": "crunchy-peanuts/CP_250g-960w.webp"
+      }
+    },
+    "CP_350g": {
+      "src": "crunchy-peanuts/CP_350g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_350g-480w.webp",
+        "960": "crunchy-peanuts/CP_350g-960w.webp"
+      }
+    },
+    "CP_400g": {
+      "src": "crunchy-peanuts/CP_400g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_400g-480w.webp",
+        "960": "crunchy-peanuts/CP_400g-960w.webp"
+      }
+    },
+    "CP_500g": {
+      "src": "crunchy-peanuts/CP_500g.jpg",
+      "variants": {
+        "480": "crunchy-peanuts/CP_500g-480w.webp",
+        "960": "crunchy-peanuts/CP_500g-960w.webp"
+      }
+    },
+    "CP_50g": {
+      "src": "crunchy-peanuts/CP_50g.png",
+      "variants": {
+        "480": "crunchy-peanuts/CP_50g-480w.webp",
+        "960": "crunchy-peanuts/CP_50g-960w.webp"
+      }
+    },
+    "CP_700g": {
+      "src": "crunchy-peanuts/CP_700g.jpg",
+      "variants": {
+        "480": "crunchy-peanuts/CP_700g-480w.webp",
+        "960": "crunchy-peanuts/CP_700g-960w.webp"
+      }
+    },
+    "CP_750g": {
+      "src": "crunchy-peanuts/CP_750g.jpg",
+      "variants": {
+        "480": "crunchy-peanuts/CP_750g-480w.webp",
+        "960": "crunchy-peanuts/CP_750g-960w.webp"
+      }
+    },
+    "CP_900g": {
+      "src": "crunchy-peanuts/CP_900g.jpg",
+      "variants": {
+        "480": "crunchy-peanuts/CP_900g-480w.webp",
+        "960": "crunchy-peanuts/CP_900g-960w.webp"
+      }
+    },
+    "FPB_500g_": {
+      "src": "peanut-butter-collection/FPB_500g_.jpg",
+      "variants": {
+        "480": "peanut-butter-collection/FPB_500g_-480w.webp",
+        "960": "peanut-butter-collection/FPB_500g_-960w.webp"
+      }
+    },
+    "GPB_100g": {
+      "src": "gourmet-peanut-brittle/GPB_100g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_100g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_100g-960w.webp"
+      }
+    },
+    "GPB_150g": {
+      "src": "gourmet-peanut-brittle/GPB_150g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_150g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_150g-960w.webp"
+      }
+    },
+    "GPB_1kg": {
+      "src": "gourmet-peanut-brittle/GPB_1kg.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_1kg-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_1kg-960w.webp"
+      }
+    },
+    "GPB_200g": {
+      "src": "gourmet-peanut-brittle/GPB_200g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_200g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_200g-960w.webp"
+      }
+    },
+    "GPB_250g": {
+      "src": "gourmet-peanut-brittle/GPB_250g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_250g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_250g-960w.webp"
+      }
+    },
+    "GPB_350g": {
+      "src": "gourmet-peanut-brittle/GPB_350g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_350g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_350g-960w.webp"
+      }
+    },
+    "GPB_400g": {
+      "src": "gourmet-peanut-brittle/GPB_400g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_400g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_400g-960w.webp"
+      }
+    },
+    "GPB_500g": {
+      "src": "gourmet-peanut-brittle/GPB_500g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_500g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_500g-960w.webp"
+      }
+    },
+    "GPB_50g": {
+      "src": "gourmet-peanut-brittle/GPB_50g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_50g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_50g-960w.webp"
+      }
+    },
+    "GPB_700g": {
+      "src": "gourmet-peanut-brittle/GPB_700g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_700g-480w.webp",
+        "960": "gourmet-peanut-brittle/GPB_700g-960w.webp"
+      }
+    },
+    "GPB_750g": {
+      "src": "gourmet-peanut-brittle/GPB_750g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_750g-480w.webp"
+      }
+    },
+    "GPB_900g": {
+      "src": "gourmet-peanut-brittle/GPB_900g.jpg",
+      "variants": {
+        "480": "gourmet-peanut-brittle/GPB_900g-480w.webp"
+      }
+    },
+    "PB_100g": {
+      "src": "peanut-butter/PB_100g.png",
+      "variants": {
+        "480": "peanut-butter/PB_100g-480w.webp",
+        "960": "peanut-butter/PB_100g-960w.webp"
+      }
+    },
+    "PB_100g_": {
+      "src": "peanut-butter/PB_100g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_100g_-480w.webp",
+        "960": "peanut-butter/PB_100g_-960w.webp"
+      }
+    },
+    "PB_150g": {
+      "src": "peanut-butter/PB_150g.png",
+      "variants": {
+        "480": "peanut-butter/PB_150g-480w.webp",
+        "960": "peanut-butter/PB_150g-960w.webp"
+      }
+    },
+    "PB_150g_": {
+      "src": "peanut-butter/PB_150g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_150g_-480w.webp",
+        "960": "peanut-butter/PB_150g_-960w.webp"
+      }
+    },
+    "PB_1kg": {
+      "src": "peanut-butter/PB_1kg.png",
+      "variants": {
+        "480": "peanut-butter/PB_1kg-480w.webp",
+        "960": "peanut-butter/PB_1kg-960w.webp"
+      }
+    },
+    "PB_200g": {
+      "src": "peanut-butter/PB_200g.png",
+      "variants": {
+        "480": "peanut-butter/PB_200g-480w.webp",
+        "960": "peanut-butter/PB_200g-960w.webp"
+      }
+    },
+    "PB_200g_": {
+      "src": "peanut-butter/PB_200g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_200g_-480w.webp",
+        "960": "peanut-butter/PB_200g_-960w.webp"
+      }
+    },
+    "PB_250g": {
+      "src": "peanut-butter/PB_250g.png",
+      "variants": {
+        "480": "peanut-butter/PB_250g-480w.webp",
+        "960": "peanut-butter/PB_250g-960w.webp"
+      }
+    },
+    "PB_250g_": {
+      "src": "peanut-butter/PB_250g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_250g_-480w.webp",
+        "960": "peanut-butter/PB_250g_-960w.webp"
+      }
+    },
+    "PB_350g": {
+      "src": "peanut-butter/PB_350g.png",
+      "variants": {
+        "480": "peanut-butter/PB_350g-480w.webp",
+        "960": "peanut-butter/PB_350g-960w.webp"
+      }
+    },
+    "PB_350g_": {
+      "src": "peanut-butter/PB_350g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_350g_-480w.webp",
+        "960": "peanut-butter/PB_350g_-960w.webp"
+      }
+    },
+    "PB_400g": {
+      "src": "peanut-butter/PB_400g.png",
+      "variants": {
+        "480": "peanut-butter/PB_400g-480w.webp",
+        "960": "peanut-butter/PB_400g-960w.webp"
+      }
+    },
+    "PB_400g_": {
+      "src": "peanut-butter/PB_400g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_400g_-480w.webp",
+        "960": "peanut-butter/PB_400g_-960w.webp"
+      }
+    },
+    "PB_500g": {
+      "src": "peanut-butter/PB_500g.png",
+      "variants": {
+        "480": "peanut-butter/PB_500g-480w.webp",
+        "960": "peanut-butter/PB_500g-960w.webp"
+      }
+    },
+    "PB_500g_": {
+      "src": "peanut-butter/PB_500g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_500g_-480w.webp",
+        "960": "peanut-butter/PB_500g_-960w.webp"
+      }
+    },
+    "PB_50g": {
+      "src": "peanut-butter/PB_50g.png",
+      "variants": {
+        "480": "peanut-butter/PB_50g-480w.webp",
+        "960": "peanut-butter/PB_50g-960w.webp"
+      }
+    },
+    "PB_50g_": {
+      "src": "peanut-butter/PB_50g_.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_50g_-480w.webp",
+        "960": "peanut-butter/PB_50g_-960w.webp"
+      }
+    },
+    "PB_700g": {
+      "src": "peanut-butter/PB_700g.jpg",
+      "variants": {
+        "480": "peanut-butter/PB_700g-480w.webp",
+        "960": "peanut-butter/PB_700g-960w.webp"
+      }
+    },
+    "PB_750g": {
+      "src": "peanut-butter/PB_750g.png",
+      "variants": {
+        "480": "peanut-butter/PB_750g-480w.webp",
+        "960": "peanut-butter/PB_750g-960w.webp"
+      }
+    },
+    "PB_900g": {
+      "src": "peanut-butter/PB_900g.png",
+      "variants": {
+        "480": "peanut-butter/PB_900g-480w.webp",
+        "960": "peanut-butter/PB_900g-960w.webp"
+      }
+    },
+    "PBs_150g": {
+      "src": "peanut-butter/PBs_150g.png",
+      "variants": {
+        "480": "peanut-butter/PBs_150g-480w.webp",
+        "960": "peanut-butter/PBs_150g-960w.webp"
+      }
+    },
+    "PPF_100g": {
+      "src": "premium-peanut-flour/PPF_100g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_100g-480w.webp",
+        "960": "premium-peanut-flour/PPF_100g-960w.webp"
+      }
+    },
+    "PPF_150g": {
+      "src": "premium-peanut-flour/PPF_150g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_150g-480w.webp",
+        "960": "premium-peanut-flour/PPF_150g-960w.webp"
+      }
+    },
+    "PPF_1kg": {
+      "src": "premium-peanut-flour/PPF_1kg.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_1kg-480w.webp",
+        "960": "premium-peanut-flour/PPF_1kg-960w.webp"
+      }
+    },
+    "PPF_200g": {
+      "src": "premium-peanut-flour/PPF_200g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_200g-480w.webp",
+        "960": "premium-peanut-flour/PPF_200g-960w.webp"
+      }
+    },
+    "PPF_250g": {
+      "src": "premium-peanut-flour/PPF_250g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_250g-480w.webp",
+        "960": "premium-peanut-flour/PPF_250g-960w.webp"
+      }
+    },
+    "PPF_350g": {
+      "src": "premium-peanut-flour/PPF_350g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_350g-480w.webp",
+        "960": "premium-peanut-flour/PPF_350g-960w.webp"
+      }
+    },
+    "PPF_400g": {
+      "src": "premium-peanut-flour/PPF_400g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_400g-480w.webp",
+        "960": "premium-peanut-flour/PPF_400g-960w.webp"
+      }
+    },
+    "PPF_500g": {
+      "src": "premium-peanut-flour/PPF_500g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_500g-480w.webp",
+        "960": "premium-peanut-flour/PPF_500g-960w.webp"
+      }
+    },
+    "PPF_50g": {
+      "src": "premium-peanut-flour/PPF_50g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_50g-480w.webp",
+        "960": "premium-peanut-flour/PPF_50g-960w.webp"
+      }
+    },
+    "PPF_700g": {
+      "src": "premium-peanut-flour/PPF_700g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_700g-480w.webp",
+        "960": "premium-peanut-flour/PPF_700g-960w.webp"
+      }
+    },
+    "PPF_750g": {
+      "src": "premium-peanut-flour/PPF_750g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_750g-480w.webp",
+        "960": "premium-peanut-flour/PPF_750g-960w.webp"
+      }
+    },
+    "PPF_900g": {
+      "src": "premium-peanut-flour/PPF_900g.jpg",
+      "variants": {
+        "480": "premium-peanut-flour/PPF_900g-480w.webp",
+        "960": "premium-peanut-flour/PPF_900g-960w.webp"
+      }
+    },
+    "RSP_100g": {
+      "src": "roasted-salted-peanuts/RSP_100g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_100g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_100g-960w.webp"
+      }
+    },
+    "RSP_150g": {
+      "src": "roasted-salted-peanuts/RSP_150g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_150g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_150g-960w.webp"
+      }
+    },
+    "RSP_1kg": {
+      "src": "roasted-salted-peanuts/RSP_1kg.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_1kg-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_1kg-960w.webp"
+      }
+    },
+    "RSP_200g": {
+      "src": "roasted-salted-peanuts/RSP_200g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_200g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_200g-960w.webp"
+      }
+    },
+    "RSP_250g": {
+      "src": "roasted-salted-peanuts/RSP_250g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_250g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_250g-960w.webp"
+      }
+    },
+    "RSP_350g": {
+      "src": "roasted-salted-peanuts/RSP_350g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_350g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_350g-960w.webp"
+      }
+    },
+    "RSP_400g": {
+      "src": "roasted-salted-peanuts/RSP_400g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_400g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_400g-960w.webp"
+      }
+    },
+    "RSP_500g": {
+      "src": "roasted-salted-peanuts/RSP_500g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_500g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_500g-960w.webp"
+      }
+    },
+    "RSP_50g": {
+      "src": "roasted-salted-peanuts/RSP_50g.png",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_50g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_50g-960w.webp",
+        "1440": "roasted-salted-peanuts/RSP_50g-1440w.webp"
+      }
+    },
+    "RSP_50g_": {
+      "src": "roasted-salted-peanuts/RSP_50g_.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_50g_-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_50g_-960w.webp",
+        "1440": "roasted-salted-peanuts/RSP_50g_-1440w.webp"
+      }
+    },
+    "RSP_50g-": {
+      "src": "roasted-salted-peanuts/RSP_50g-.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_50g--480w.webp",
+        "960": "roasted-salted-peanuts/RSP_50g--960w.webp",
+        "1440": "roasted-salted-peanuts/RSP_50g--1440w.webp"
+      }
+    },
+    "RSP_700g": {
+      "src": "roasted-salted-peanuts/RSP_700g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_700g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_700g-960w.webp"
+      }
+    },
+    "RSP_750g": {
+      "src": "roasted-salted-peanuts/RSP_750g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_750g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_750g-960w.webp"
+      }
+    },
+    "RSP_900g": {
+      "src": "roasted-salted-peanuts/RSP_900g.jpg",
+      "variants": {
+        "480": "roasted-salted-peanuts/RSP_900g-480w.webp",
+        "960": "roasted-salted-peanuts/RSP_900g-960w.webp"
+      }
+    }
+  }
+}
