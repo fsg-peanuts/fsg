@@ -63,3 +63,4 @@ public/images/products/   product photography goes here
 ## Licence
 
 See [LICENSE](LICENSE). It is a placeholder (all rights reserved) with a recommendation.
+# fsg

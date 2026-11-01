@@ -3,7 +3,7 @@
  *   https://fsg-peanuts.github.io/fsg/
  *
  * - `output: 'export'` writes a fully static site to `out/`.
- * - Production builds use the `/fauzey-peanut` base path. Local `next dev` uses none.
+ * - Production builds use the `/fsg` base path. Local `next dev` uses none.
  * - Override with NEXT_PUBLIC_BASE_PATH (use "" for a custom domain at the root).
  */
 const isProd = process.env.NODE_ENV === 'production';
